@@ -1,5 +1,5 @@
 ---
-title: Testing
+title: Soal 7.I
 draft: false
 tags:
   - example-tag
