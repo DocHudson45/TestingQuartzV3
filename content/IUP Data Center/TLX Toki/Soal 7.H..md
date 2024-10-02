@@ -2,7 +2,7 @@
 title: Soal 7.H.
 draft: false
 tags:
-  - example-tag
+  - TLX_Toki
 ---
 ```
 
