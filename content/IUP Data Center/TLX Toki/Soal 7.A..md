@@ -4,7 +4,9 @@ draft: false
 tags:
   - "#TLX_Toki"
 ---
-`#include <iostream>
+```
+
+#include <iostream>
 using namespace std;
 
 int main() { /*      0   1   2   3           */
@@ -38,4 +40,7 @@ int main() { /*      0   1   2   3           */
         cout << biaya_jantan + biaya_betina << endl;
     }
 }
-/**/`
+/**/
+
+
+```
