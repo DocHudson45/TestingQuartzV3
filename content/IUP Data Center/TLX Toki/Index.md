@@ -17,7 +17,7 @@ longform:
     - Soal 7.J.
     - Soal 7.K.
   ignoredFiles: []
-title: TLX Toki Branch Tree (IND)
+title: 1.1 TLX Toki Branch Tree (IND)
 ---
 ## Soal Paket 7
 
