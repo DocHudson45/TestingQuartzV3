@@ -1,8 +1,8 @@
 ---
-title: Welcome to IUP '24 Data Center
+title: Welcome to Informatics '24 Data Center
 ---
 
-Welcome to the **IUP '24 Data Center Website**, your central hub for all things related to coursework, assignments, and resources for the academic year! This platform is designed to help you stay organized and succeed in your studies. Here’s what you can find:
+Welcome to the **Informatics Data Center**, your central hub for all things related to coursework, assignments, and resources for the academic year! This platform is designed to help you stay organized and succeed in your studies. Here’s what you can find:
 
 - **Homeworks & Assignments**: Access detailed instructions and submit your coding assignments, primarily focused on programming in C. Keep track of deadlines and monitor your progress.
   
