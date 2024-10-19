@@ -1,0 +1,13 @@
+---
+title: Why does TLE happen?
+draft: false
+tags:
+  - TLX_Toki
+---
+ 
+
+1. **Inefficient algorithms**: Your solution may not be optimized for large inputs.
+2. **High time complexity**: Using an algorithm with O(n2)O(n^2)O(n2) or O(2n)O(2^n)O(2n) complexity on large inputs can easily trigger TLE.
+3. **Too many nested loops**: Multiple loops or recursion can cause excessive computations.
+4. **Slow I/O operations**: Reading and writing data inefficiently, especially for large datasets, can lead to TLE.
+5. **Infinite loops**: A mistake causing the program to run indefinitely also results in TLE.

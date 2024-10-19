@@ -1,0 +1,12 @@
+---
+title: Real TLX Problems Occurred 02
+draft: false
+tags:
+  - example-tag
+---
+![[11_4_6Ver1Photo.png.png]]
+
+
+and
+
+![[11_5_6Ver1Photo.png]]

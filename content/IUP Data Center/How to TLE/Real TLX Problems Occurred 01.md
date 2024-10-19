@@ -1,0 +1,67 @@
+---
+title: Real TLX Problems Occurred 01
+draft: false
+tags:
+  - TLX_Toki
+---
+Look at this code:
+
+```
+#include <iostream>
+#include <vector>
+using namespace std;
+
+//// UNTUK SOAL TLX TOKI ////
+
+int main()
+
+{
+    unsigned int N;
+    cin >> N;
+    unsigned int x;
+  
+    vector<int> data;
+    int totalSum = 0;
+    for (int i = 0; i < N; i++)
+    {
+        cin >> x;
+        data.push_back(x);
+        totalSum += x;
+    }
+    for (int i = 0; i < N; i++)
+    {
+        int hasil = totalSum - data[i];
+        cout << hasil << endl;
+    }
+    return 0;
+}
+```
+
+and this one :
+
+```
+#include <iostream>
+#include <vector>
+using namespace std;
+
+int main() {
+    int N;
+    cin >> N;  // Membaca jumlah bilangan
+ 
+    vector<int> A(N);
+    long long total_sum = 0;  // Untuk menampung jumlah total (gunakan long long untuk menghindari overflow)
+
+    // Membaca semua bilangan dan menghitung total sekaligus
+    for (int i = 0; i < N; ++i) {
+        cin >> A[i];
+        total_sum += A[i];
+    }
+
+    // Mengeluarkan hasil untuk setiap elemen
+    for (int i = 0; i < N; ++i) {
+        cout << total_sum - A[i] << endl;
+    }
+
+    return 0;
+}
+```

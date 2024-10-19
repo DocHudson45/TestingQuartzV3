@@ -1,0 +1,7 @@
+---
+title: What is TLE?
+draft: false
+tags:
+  - TLX_Toki
+---
+**TLE** in coding stands for **Time Limit Exceeded**. It occurs when a program takes longer to execute than the maximum allowed time for a given problem in competitive programming or coding challenges.

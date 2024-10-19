@@ -4,7 +4,8 @@ longform:
   title: IUP Data Center
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - 
   sceneTemplate: templates/Chapter.md
   ignoredFiles: []
 ---
