@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Praktikum 1 Ancient Sophistication
+    - Praktikum 1 Ancient Sophistication FIXED
   sceneTemplate: templates/Chapter.md
   ignoredFiles: []
 ---
